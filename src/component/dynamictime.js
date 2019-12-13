@@ -1,5 +1,5 @@
 import React from "react";
-import './dynam.css'
+import "./dynam.css";
 
 function dynamicTime({ totalmilSeconds }) {
   const totsec = Math.floor(totalmilSeconds / 1000);
